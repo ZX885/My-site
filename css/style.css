@@ -239,4 +239,9 @@ header nav ul li.btn a:hover{
     .wrapper{
         width: auto;
     }
+
+
+    .projects .images img{
+        max-width: 100px;
+    }
 }
